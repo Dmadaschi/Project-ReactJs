@@ -1,3 +1,5 @@
-<super> project using reactJs </super
+<super> <b>project using ReactJs </b></super>
 
-Daniel Madaschi Nunes Junior
+
+
+<b>Daniel Madaschi Nunes Junior</b>
